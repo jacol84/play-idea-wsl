@@ -8,13 +8,13 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/APP_ON_UBU.iml" filepath="$PROJECT_DIR$/APP_ON_UBU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APP_ON_UBU_WSL.iml" filepath="$PROJECT_DIR$/APP_ON_UBU_WSL.iml" />
     </modules>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.6" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8 (WSL)" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/tmp/classes" />
   </component>
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="" vcs="Git" />
   </component>
 </project>
