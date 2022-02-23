@@ -11,15 +11,13 @@
                 <content url="file://G:\praca\play\play-1.5.3\modules\docviewer">
             <sourceFolder url="file://G:/praca/play/play-1.5.3/modules/docviewer/app" isTestSource="false" />
         </content>
-        <content url="file:///opt/play/play-1.5.3/modules/docviewer">
-            <sourceFolder url="file:///opt/play/play-1.5.3/modules/docviewer/app" isTestSource="false" />
-        </content>
 
         <orderEntry type="inheritedJdk" />
         <orderEntry type="module-library">
             <library name="Project Libraries">
                 <CLASSES>
-                                        <root url="file://$MODULE_DIR$/../../play/play-1.5.3/modules/docviewer/lib"/>
+                    <root url="file://$MODULE_DIR$/lib" />
+                    <root url="file://$MODULE_DIR$/../../play/play-1.5.3/modules/docviewer/lib"/>
 
                 </CLASSES>
                 <JAVADOC />
