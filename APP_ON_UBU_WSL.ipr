@@ -14,6 +14,21 @@
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8 (WSL)" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/tmp/classes" />
   </component>
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="WSL - Ubuntu-20.04" type="wsl" uuid="e779ab1c-7ccd-413f-b157-61bda1ac3d6d">
+        <config>
+          <option name="distributionMsId" value="Ubuntu-20.04" />
+          <option name="projectRootOnTarget" value="/mnt/c/Users/jacol/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/213.6777.52/jbr/bin&#10;/APP_ON_UBU_WSL" />
+        </config>
+        <ContributedStateBase type="JavaLanguageRuntime">
+          <config>
+            <option name="javaVersionString" value="1.8.0_312" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
   </component>
