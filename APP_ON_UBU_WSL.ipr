@@ -15,6 +15,7 @@
     <output url="file://$PROJECT_DIR$/tmp/classes" />
   </component>
   <component name="RemoteTargetsManager">
+    <option name="projectDefaultTargetUuid" value="2def7eb6-e231-4353-9a56-ae71fca1eab0" />
     <targets>
       <target name="WSL - Ubuntu-20.042" type="wsl" uuid="2def7eb6-e231-4353-9a56-ae71fca1eab0">
         <config>
@@ -23,6 +24,7 @@
         </config>
         <ContributedStateBase type="JavaLanguageRuntime">
           <config>
+            <option name="homePath" value="/usr/lib/jvm/java-8-openjdk-amd64" />
             <option name="javaVersionString" value="1.8.0_312" />
           </config>
         </ContributedStateBase>
