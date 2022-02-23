@@ -16,7 +16,7 @@
   </component>
   <component name="RemoteTargetsManager">
     <targets>
-      <target name="WSL - Ubuntu-20.04" type="wsl" uuid="e779ab1c-7ccd-413f-b157-61bda1ac3d6d">
+      <target name="WSL - Ubuntu-20.042" type="wsl" uuid="2def7eb6-e231-4353-9a56-ae71fca1eab0">
         <config>
           <option name="distributionMsId" value="Ubuntu-20.04" />
           <option name="projectRootOnTarget" value="/mnt/c/Users/jacol/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/213.6777.52/jbr/bin&#10;/APP_ON_UBU_WSL" />
