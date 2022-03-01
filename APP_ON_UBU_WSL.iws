@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5abf4e33-b690-4c42-a5f5-0dc39ac2c686" name="Changes" comment="run test on WSL">
+      <change beforePath="$PROJECT_DIR$/APP_ON_UBU_WSL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/APP_ON_UBU_WSL.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25WPIvXqKjaeKIuVMW2t5LTK1q1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.1150748" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ServiceAppTestA.add">
+    <configuration name="ServiceAppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APP_ON_UBU_WSL" />
+      <projectPathOnTarget name="projectPathOnTarget" value="/mnt/c/Users/jacol/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/213.6777.52/jbr/bin /APP_ON_UBU_WSL" />
+      <target name="WSL - Ubuntu-20.042" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8 (WSL)" />
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.ServiceAppTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAppTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APP_ON_UBU_WSL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.ServiceAppTest1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAppTest22" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APP_ON_UBU_WSL" />
+      <projectPathOnTarget name="projectPathOnTarget" value="/mnt/c/Users/jacol/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/213.6777.52/jbr/bin /APP_ON_UBU_WSL" />
+      <target name="WSL - Ubuntu-20.042" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.ServiceAppTest22" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAppTestA.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APP_ON_UBU_WSL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.ServiceAppTestA" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ServiceAppTest" />
+      <item itemvalue="JUnit.ServiceAppTest22" />
+      <item itemvalue="JUnit.ServiceAppTest1" />
+      <item itemvalue="JUnit.ServiceAppTestA.add" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ServiceAppTestA.add" />
+        <item itemvalue="JUnit.ServiceAppTest1" />
+        <item itemvalue="JUnit.ServiceAppTest22" />
+        <item itemvalue="JUnit.ServiceAppTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5abf4e33-b690-4c42-a5f5-0dc39ac2c686" name="Changes" comment="" />
+      <created>1645639804431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645639804431</updated>
+      <workItem from="1645639812419" duration="1437000" />
+      <workItem from="1645641303762" duration="4037000" />
+    </task>
+    <task id="LOCAL-00001" summary="add test">
+      <created>1645641220596</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645641220596</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add test mem">
+      <created>1645643047508</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645643047508</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add test mem">
+      <created>1645643340144</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645643340144</updated>
+    </task>
+    <task id="LOCAL-00004" summary="run test on WSL">
+      <created>1645643880372</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645643880372</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test next run" />
+    <MESSAGE value="add test" />
+    <MESSAGE value="add test mem" />
+    <MESSAGE value="run test on WSL" />
+    <option name="LAST_COMMIT_MESSAGE" value="run test on WSL" />
+  </component>
+</project>
