@@ -15,23 +15,22 @@
     <output url="file://$PROJECT_DIR$/tmp/classes" />
   </component>
   <component name="RemoteTargetsManager">
-    <option name="projectDefaultTargetUuid" value="2def7eb6-e231-4353-9a56-ae71fca1eab0" />
     <targets>
-      <target name="WSL - Ubuntu-20.042" type="wsl" uuid="2def7eb6-e231-4353-9a56-ae71fca1eab0">
+      <target name="WSL - Ubuntu-20.04" type="wsl" uuid="79696bce-3c58-48fd-88c3-fef0b7ae0970">
         <config>
           <option name="distributionMsId" value="Ubuntu-20.04" />
           <option name="projectRootOnTarget" value="/mnt/c/Users/jacol/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/213.6777.52/jbr/bin&#10;/APP_ON_UBU_WSL" />
         </config>
         <ContributedStateBase type="JavaLanguageRuntime">
           <config>
-            <option name="homePath" value="/usr/lib/jvm/java-8-openjdk-amd64" />
-            <option name="javaVersionString" value="1.8.0_312" />
+            <option name="homePath" value="/usr/lib/jvm/java-11-openjdk-amd64" />
+            <option name="javaVersionString" value="11.0.13" />
           </config>
         </ContributedStateBase>
       </target>
     </targets>
   </component>
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
