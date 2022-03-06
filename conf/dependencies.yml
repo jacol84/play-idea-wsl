@@ -3,6 +3,8 @@
 require:
     - play
     - play -> docviewer
+    - play -> secure
+    - play -> press 1.0.36
     - com.google.guava -> guava 16.0.1
     - org.postgresql -> postgresql 42.2.14
 
