@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5abf4e33-b690-4c42-a5f5-0dc39ac2c686" name="Changes" comment="run test on WSL">
-      <change beforePath="$PROJECT_DIR$/APP_ON_UBU_WSL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/APP_ON_UBU_WSL.iml" afterDir="false" />
+    <list default="true" id="97d7ea73-2ec5-4ccd-8269-ae56d1b6054a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/conf/dependencies.yml" beforeDir="false" afterPath="$PROJECT_DIR$/conf/dependencies.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645643880372</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="use wsl">
+      <created>1646556063672</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646556063672</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +204,7 @@
     <MESSAGE value="add test" />
     <MESSAGE value="add test mem" />
     <MESSAGE value="run test on WSL" />
-    <option name="LAST_COMMIT_MESSAGE" value="run test on WSL" />
+    <MESSAGE value="use wsl" />
+    <option name="LAST_COMMIT_MESSAGE" value="use wsl" />
   </component>
 </project>
